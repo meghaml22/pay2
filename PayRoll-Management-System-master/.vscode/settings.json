@@ -1,0 +1,22 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "payroll",
+            "database": "payroll",
+            "username": "root",
+            "password": "1234"
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/payrollsystem/mysql-connector-j-8.0.33.jar"
+    ]
+}

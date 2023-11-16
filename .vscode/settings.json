@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "PayRoll-Management-System-master/src/payrollsystem/mysql-connector-j-8.0.33.jar"
+    ]
+}
